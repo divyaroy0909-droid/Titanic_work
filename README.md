@@ -1,6 +1,6 @@
 # Titanic_work
 Trying different models using sklearn
-
+	
 Models used
 1.Logistic regression
 2.KNeighbors
